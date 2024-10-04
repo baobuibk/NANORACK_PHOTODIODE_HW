@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [NANORACK_PHOTODIODE.PrjPcb]
+   Generated File[PHOTODIODE.TXT]
+   Generated File[PHOTODIODE.LDP]
+   Generated File[PHOTODIODE.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:02:02 AM On 10/5/2024
